@@ -5,6 +5,10 @@ width:100%;
 font-family: sans-serif;
 margin:0 auto;
 }
+.jarak{
+  padding:0 2pc;
+}
+
 .header {
 width:90%;
 margin:auto;
