@@ -62,6 +62,14 @@ color:#fff;
   height:420px;
 }
 
+.kanan{
+  width:70%;
+  float:left;
+  margin:auto;
+  background:#fff;
+  height:420px;
+}
+
 .undecor{
   text-decoration:none;
 }
